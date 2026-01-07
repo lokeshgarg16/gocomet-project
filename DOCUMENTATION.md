@@ -127,13 +127,6 @@ Rationale summary:
 
 ## API Endpoints
 
-See `cargo-backend/routes` for the concrete API endpoints (for example, booking-related routes are under `bookingRoutes.js`). Typical endpoints include:
-
-- `GET /api/flights` — list or search flights
-- `GET /api/flights/:id` — flight details
-- `POST /api/bookings` — create a booking
-- `GET /api/bookings/:id` — booking details
-
-Adjust paths based on `cargo-backend/routes/*.js` implementations.
+Check postman links in readme.md
 
 ---
